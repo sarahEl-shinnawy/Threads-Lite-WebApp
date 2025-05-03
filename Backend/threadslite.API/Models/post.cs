@@ -12,6 +12,6 @@ namespace threadslite.API.Models
         public int UserId { get; set; }
         public User User { get; set; }
 
-        public List<Comment> Comments { get; set; } = new List<Comment>();
+        public List<Comment> Comments { get; set; } = new();
     }
 }
