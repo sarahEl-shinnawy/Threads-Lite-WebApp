@@ -1,4 +1,4 @@
-namespace ThreadsLite.API.Models
+namespace threadslite.API.Models
 {
     public class Follow
     {

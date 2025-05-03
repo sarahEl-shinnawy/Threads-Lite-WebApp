@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using threadslite.API.Data;
 using threadslite.API.Models;
+using threadslite.API.Models.DTOs;
+
 
 namespace threadslite.API.Controllers;
 

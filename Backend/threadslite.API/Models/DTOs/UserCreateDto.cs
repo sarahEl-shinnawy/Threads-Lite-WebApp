@@ -1,6 +1,7 @@
-namespace threadslite.API.Models;
-
-public class UserCreateDto
+namespace threadslite.API.Models.DTOs
 {
-    public string Username { get; set; }
+    public class UserCreateDto
+    {
+        public string Username { get; set; }
+    }
 }
